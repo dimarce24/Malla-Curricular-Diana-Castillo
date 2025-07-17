@@ -1,0 +1,418 @@
+[
+  {
+    "id": "MATEMÁTICA_I",
+    "name": "MATEMÁTICA I",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "FUNDAMENTOS_DE_DERECHO",
+    "name": "FUNDAMENTOS DE DERECHO",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "CULTURA_Y_DEPORTE",
+    "name": "CULTURA Y DEPORTE",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "COMUNICACIÓN_ORAL_Y_ESCRITA",
+    "name": "COMUNICACIÓN ORAL Y ESCRITA",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "PROYECTO_DE_VIDA",
+    "name": "PROYECTO DE VIDA",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "CONTABILIDAD_I",
+    "name": "CONTABILIDAD I",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "SISTEMAS_DE_INFORMACIÓN_I",
+    "name": "SISTEMAS DE INFORMACIÓN I",
+    "semester": 1,
+    "prerequisites": []
+  },
+  {
+    "id": "MATEMÁTICA_II",
+    "name": "MATEMÁTICA II",
+    "semester": 2,
+    "prerequisites": [
+      "MATEMÁTICA_I"
+    ]
+  },
+  {
+    "id": "LEGISLACIÓN_COMERCIAL",
+    "name": "LEGISLACIÓN COMERCIAL",
+    "semester": 2,
+    "prerequisites": [
+      "FUNDAMENTOS_DE_DERECHO"
+    ]
+  },
+  {
+    "id": "ECONOMÍA_I",
+    "name": "ECONOMÍA I",
+    "semester": 2,
+    "prerequisites": []
+  },
+  {
+    "id": "FUNDAMENTOS_DE_ADMINISTRACIÓN",
+    "name": "FUNDAMENTOS DE ADMINISTRACIÓN",
+    "semester": 2,
+    "prerequisites": []
+  },
+  {
+    "id": "EPISTEMOLOGÍA_DE_LA_INVESTIGACIÓN_CONTABLE",
+    "name": "EPISTEMOLOGÍA DE LA INVESTIGACIÓN CONTABLE",
+    "semester": 2,
+    "prerequisites": []
+  },
+  {
+    "id": "INGLÉS_I",
+    "name": "INGLÉS I",
+    "semester": 2,
+    "prerequisites": []
+  },
+  {
+    "id": "CONTABILIDAD_II",
+    "name": "CONTABILIDAD II",
+    "semester": 2,
+    "prerequisites": [
+      "CONTABILIDAD_I"
+    ]
+  },
+  {
+    "id": "LEGISLACIÓN_LABORAL",
+    "name": "LEGISLACIÓN LABORAL",
+    "semester": 3,
+    "prerequisites": [
+      "LEGISLACIÓN_COMERCIAL"
+    ]
+  },
+  {
+    "id": "INGLÉS_II",
+    "name": "INGLÉS II",
+    "semester": 3,
+    "prerequisites": [
+      "INGLÉS_I"
+    ]
+  },
+  {
+    "id": "SEMINARIO_INVESTIGATIVO",
+    "name": "SEMINARIO INVESTIGATIVO",
+    "semester": 3,
+    "prerequisites": [
+      "EPISTEMOLOGÍA_DE_LA_INVESTIGACIÓN_CONTABLE"
+    ]
+  },
+  {
+    "id": "CONTABILIDAD_III",
+    "name": "CONTABILIDAD III",
+    "semester": 3,
+    "prerequisites": [
+      "CONTABILIDAD_II"
+    ]
+  },
+  {
+    "id": "PROCESOS_ADMINISTRATIVOS",
+    "name": "PROCESOS ADMINISTRATIVOS",
+    "semester": 3,
+    "prerequisites": [
+      "FUNDAMENTOS_DE_ADMINISTRACIÓN"
+    ]
+  },
+  {
+    "id": "ECONOMÍA_II",
+    "name": "ECONOMÍA II",
+    "semester": 3,
+    "prerequisites": [
+      "ECONOMÍA_I"
+    ]
+  },
+  {
+    "id": "SISTEMAS_CONTABLES",
+    "name": "SISTEMAS CONTABLES",
+    "semester": 3,
+    "prerequisites": []
+  },
+  {
+    "id": "SOCIEDADES",
+    "name": "SOCIEDADES",
+    "semester": 4,
+    "prerequisites": []
+  },
+  {
+    "id": "INVESTIGACIÓN_CONTABLE",
+    "name": "INVESTIGACIÓN CONTABLE",
+    "semester": 4,
+    "prerequisites": [
+      "SEMINARIO_INVESTIGATIVO"
+    ]
+  },
+  {
+    "id": "INGLÉS_III",
+    "name": "INGLÉS III",
+    "semester": 4,
+    "prerequisites": [
+      "INGLÉS_II"
+    ]
+  },
+  {
+    "id": "CONTABILIDAD_IV",
+    "name": "CONTABILIDAD IV",
+    "semester": 4,
+    "prerequisites": [
+      "CONTABILIDAD_III"
+    ]
+  },
+  {
+    "id": "ESTADÍSTICA_DESCRIPTIVA",
+    "name": "ESTADÍSTICA DESCRIPTIVA",
+    "semester": 4,
+    "prerequisites": []
+  },
+  {
+    "id": "GESTIÓN_DEL_TALENTO_HUMANO",
+    "name": "GESTIÓN DEL TALENTO HUMANO",
+    "semester": 4,
+    "prerequisites": []
+  },
+  {
+    "id": "APLICACIONES_CONTABLES_I",
+    "name": "APLICACIONES CONTABLES I",
+    "semester": 4,
+    "prerequisites": []
+  },
+  {
+    "id": "COSTOS_I",
+    "name": "COSTOS I",
+    "semester": 5,
+    "prerequisites": [
+      "CONTABILIDAD_IV"
+    ]
+  },
+  {
+    "id": "APLICACIONES_CONTABLES_II",
+    "name": "APLICACIONES CONTABLES II",
+    "semester": 5,
+    "prerequisites": [
+      "APLICACIONES_CONTABLES_I"
+    ]
+  },
+  {
+    "id": "LEGISLACIÓN_TRIBUTARIA_I",
+    "name": "LEGISLACIÓN TRIBUTARIA I",
+    "semester": 5,
+    "prerequisites": []
+  },
+  {
+    "id": "ELECTIVA_SOCIOHUMANISTICA_I",
+    "name": "ELECTIVA SOCIOHUMANISTICA I",
+    "semester": 5,
+    "prerequisites": []
+  },
+  {
+    "id": "ANÁLISIS_FINANCIERO_I",
+    "name": "ANÁLISIS FINANCIERO I",
+    "semester": 5,
+    "prerequisites": []
+  },
+  {
+    "id": "ÉTICA_DEL_CONTADOR_PÚBLICO",
+    "name": "ÉTICA DEL CONTADOR PÚBLICO",
+    "semester": 5,
+    "prerequisites": []
+  },
+  {
+    "id": "INGLÉS_IV",
+    "name": "INGLÉS IV",
+    "semester": 5,
+    "prerequisites": [
+      "INGLÉS_III"
+    ]
+  },
+  {
+    "id": "COSTOS_II",
+    "name": "COSTOS II",
+    "semester": 6,
+    "prerequisites": [
+      "COSTOS_I"
+    ]
+  },
+  {
+    "id": "LEGISLACIÓN_TRIBUTARIA_II",
+    "name": "LEGISLACIÓN TRIBUTARIA II",
+    "semester": 6,
+    "prerequisites": [
+      "LEGISLACIÓN_TRIBUTARIA_I"
+    ]
+  },
+  {
+    "id": "INGLÉS_V",
+    "name": "INGLÉS V",
+    "semester": 6,
+    "prerequisites": [
+      "INGLÉS_IV"
+    ]
+  },
+  {
+    "id": "AUDITORÍA_I",
+    "name": "AUDITORÍA I",
+    "semester": 6,
+    "prerequisites": []
+  },
+  {
+    "id": "ÉNFASIS_I",
+    "name": "ÉNFASIS I",
+    "semester": 6,
+    "prerequisites": []
+  },
+  {
+    "id": "ANÁLISIS_FINANCIERO_II",
+    "name": "ANÁLISIS FINANCIERO II",
+    "semester": 6,
+    "prerequisites": [
+      "ANÁLISIS_FINANCIERO_I"
+    ]
+  },
+  {
+    "id": "LEGISLACIÓN_TRIBUTARIA_III",
+    "name": "LEGISLACIÓN TRIBUTARIA III",
+    "semester": 7,
+    "prerequisites": [
+      "LEGISLACIÓN_TRIBUTARIA_II"
+    ]
+  },
+  {
+    "id": "INGLÉS_VI",
+    "name": "INGLÉS VI",
+    "semester": 7,
+    "prerequisites": [
+      "INGLÉS_V"
+    ]
+  },
+  {
+    "id": "INNOVACIÓN_Y_EMPRENDIMIENTO",
+    "name": "INNOVACIÓN Y EMPRENDIMIENTO",
+    "semester": 7,
+    "prerequisites": []
+  },
+  {
+    "id": "PRESUPUESTO",
+    "name": "PRESUPUESTO",
+    "semester": 7,
+    "prerequisites": []
+  },
+  {
+    "id": "ÉNFASIS_II",
+    "name": "ÉNFASIS II",
+    "semester": 7,
+    "prerequisites": [
+      "ÉNFASIS_I"
+    ]
+  },
+  {
+    "id": "AUDITORÍA_II",
+    "name": "AUDITORÍA II",
+    "semester": 7,
+    "prerequisites": [
+      "AUDITORÍA_I"
+    ]
+  },
+  {
+    "id": "ELECTIVA_SOCIOHUMANISTICA_II",
+    "name": "ELECTIVA SOCIOHUMANISTICA II",
+    "semester": 8,
+    "prerequisites": [
+      "ELECTIVA_SOCIOHUMANISTICA_I"
+    ]
+  },
+  {
+    "id": "AUDITORÍA_III",
+    "name": "AUDITORÍA III",
+    "semester": 8,
+    "prerequisites": [
+      "AUDITORÍA_II"
+    ]
+  },
+  {
+    "id": "MÉTODOS_CUANTITATIVOS",
+    "name": "MÉTODOS CUANTITATIVOS",
+    "semester": 8,
+    "prerequisites": [
+      "ESTADÍSTICA_DESCRIPTIVA"
+    ]
+  },
+  {
+    "id": "CONTABILIDAD_ADMINISTRATIVA",
+    "name": "CONTABILIDAD ADMINISTRATIVA",
+    "semester": 8,
+    "prerequisites": []
+  },
+  {
+    "id": "TRABAJO_DE_GRADO_I",
+    "name": "TRABAJO DE GRADO I",
+    "semester": 8,
+    "prerequisites": []
+  },
+  {
+    "id": "INGLÉS_VII",
+    "name": "INGLÉS VII",
+    "semester": 8,
+    "prerequisites": [
+      "INGLÉS_VI"
+    ]
+  },
+  {
+    "id": "AUDITORÍA_IV",
+    "name": "AUDITORÍA IV",
+    "semester": 9,
+    "prerequisites": [
+      "AUDITORÍA_III"
+    ]
+  },
+  {
+    "id": "COMERCIO_Y_MERCADOS_INTERNACIONALES",
+    "name": "COMERCIO Y MERCADOS INTERNACIONALES",
+    "semester": 9,
+    "prerequisites": []
+  },
+  {
+    "id": "ÉNFASIS_III",
+    "name": "ÉNFASIS III",
+    "semester": 9,
+    "prerequisites": [
+      "ÉNFASIS_II"
+    ]
+  },
+  {
+    "id": "ECONOMÍA_COLOMBIANA",
+    "name": "ECONOMÍA COLOMBIANA",
+    "semester": 9,
+    "prerequisites": []
+  },
+  {
+    "id": "TRABAJO_DE_GRADO_II",
+    "name": "TRABAJO DE GRADO II",
+    "semester": 9,
+    "prerequisites": [
+      "TRABAJO_DE_GRADO_I"
+    ]
+  },
+  {
+    "id": "INGLÉS_VIII",
+    "name": "INGLÉS VIII",
+    "semester": 9,
+    "prerequisites": [
+      "INGLÉS_VII"
+    ]
+  }
+]
